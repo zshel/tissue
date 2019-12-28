@@ -1,0 +1,6 @@
+{
+  "name": "function",
+  "depends_on": [
+    "vnet"
+  ]
+}
